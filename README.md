@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **[React+Django E-commerce Website](https://ecco-font.vercel.app/)**  
 🌱 I’m learning **MERN Stack & Next.js**  
-👨‍💻 All of my projects are at [My Portfolio](https://github.com/Sandeep6268) *(Coming Soon)*  
+👨‍💻 All of my projects are at [My Portfolio](https://portfolio-xi-ebon-45.vercel.app/) 
 💬 Ask me about **ReactJS, JavaScript, Django, Python or Responsive Website Hacks**  
 📫 Reach me: **sandeepsinghkhicchi@gmail.com**  
 ⚡ Fun fact: **I love debugging issues and get excited facing new problems!**  
