@@ -1,9 +1,11 @@
 # Hi 👋, I'm Sandeep Singh Khicchi
 ### A passionate Web Developer from Madhya Pradesh, India
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl2dW5xY3R5Y2V0b2V1dW5qY2R6eGJ6dGN5Z2Z1bGZqZ2Z1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+
 🔭 I’m currently working on **[React+Django E-commerce Website](https://ecco-font.vercel.app/)**  
 🌱 I’m learning **MERN Stack & Next.js**  
-👨‍💻 My portfolio will be live soon! (Coming in 3 days)  
+👨‍💻 All of my projects are at [My Portfolio](https://github.com/Sandeep6268) *(Coming Soon)*  
 💬 Ask me about **ReactJS, JavaScript, Django, Python or Responsive Website Hacks**  
 📫 Reach me: **sandeepsinghkhicchi@gmail.com**  
 ⚡ Fun fact: **I love debugging issues and get excited facing new problems!**  
@@ -23,15 +25,15 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Sandeep6268&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)
+
+---
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sandeep6268&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sandeep6268&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep6268&theme=dark&hide_border=false&layout=compact)
-
----
-
-### 🔝 Recent Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Sandeep6268&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
