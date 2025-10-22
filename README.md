@@ -5,7 +5,7 @@
 👨‍💻 All of my projects are at **[My Portfolio](https://portfolio-xi-ebon-45.vercel.app/)**  
 💬 Ask me about **ReactJS, JavaScript, Django, Python or Responsive Web Development**  
 📫 Reach me: **sandeepsinghkhicchi@gmail.com**  
-📄 Know about my experiences **[Download Resume](#)**  
+📄 Know about my experiences **[Download Resume](https://drive.google.com/file/d/1XoIsVLImbFN3vxos6W0r-fp4LOvhBMuA/view?usp=drive_link)**  
 ⚡ Fun fact: **I love debugging issues and get excited facing new challenges!**  
 
 ---
